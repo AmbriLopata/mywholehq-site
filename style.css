@@ -225,3 +225,7 @@ section{padding:64px 0}
   .waitlist-grid{grid-template-columns:1fr 1fr}
   .site-footer .wrap{grid-template-columns:1fr auto;align-items:center}
 }
+
+/* Logo lockups (added Nov 24, 2026) */
+.logo-img{height:44px;width:auto;display:block}
+.footer-mark{width:38px;height:38px;border-radius:10px;flex:0 0 auto}
